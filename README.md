@@ -5,7 +5,7 @@ Browser extension to calculate air miles
 
 https://internet-ecosystem.dylanmoss1.vercel.app/
 
-Website code: https://github.com/DylanMoss1/internetecosystem2
+Website code: https://github.com/DylanMoss1/internet_ecosystem_website
 
 ## Inspiration
 
