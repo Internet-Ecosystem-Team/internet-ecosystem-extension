@@ -3,9 +3,7 @@ Browser extension to calculate air miles
 
 ## Website
 
-https://internet-ecosystem.dylanmoss1.vercel.app/
-
-Website code: https://github.com/DylanMoss1/internet_ecosystem_website
+URL: https://internet-ecosystem.dylanmoss1.vercel.app/
 
 ## Inspiration
 
